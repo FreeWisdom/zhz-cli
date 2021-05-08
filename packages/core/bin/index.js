@@ -1,3 +1,3 @@
 #! /usr/bin/env node
 
-console.log("hello zhz-cli")
+console.log("hello zhz-cli!!!")
